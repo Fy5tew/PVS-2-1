@@ -1,0 +1,8 @@
+PORT = 'COM3'
+BAUDRATE = 9600
+
+SONGS_FILE = 'songs.json'
+
+DEBUG = False
+
+COMMAND_SEPARATOR = ' '
